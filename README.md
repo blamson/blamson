@@ -17,6 +17,7 @@ Tools Used:
 - Polars
 - Plotly
 - PowerBI
+- Streamlit
 
 I also frequently write about my work on this project on my website! [Here is an example](https://bradylamson.com/p/fire-emblem-project-semantic-model-architecting-and-dashboarding-in-powerbi/) of the work that exists outside of the project repository! 
 
@@ -34,6 +35,6 @@ The second is a companion piece which seeks to guide new users on AWS how to con
 | DS Frameworks                   | Pandas, Numpy, SKLearn, Jupyter, Quarto, Tidymodels |
 | NLP Frameworks                  | HF Transformers, SpaCy, NLTK                        |
 | Data Analysis and Visualization | PowerBI, Excel, Matplotlib, Plotly, GGplot          |
-| Web Frameworks                  | Flask, R Shiny, RBlogdown                           |
+| Web Frameworks                  | Flask, Streamlit, R Shiny, RBlogdown                |
 | Infrastructure                  | Git, Docker, Poetry                                 |
 | AWS                             | Sagemaker, ECR, S3, IAM                             |
