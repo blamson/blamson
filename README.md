@@ -32,9 +32,9 @@ The second is a companion piece which seeks to guide new users on AWS how to con
 | Type                            | Skill                                               |
 |---------------------------------|-----------------------------------------------------|
 | Languages                       | Python, R                                           |
-| DS Frameworks                   | Pandas, Numpy, SKLearn, Jupyter, Quarto, Tidymodels |
+| DS Frameworks                   | PySpark, Polars, Pandas, Numpy, SKLearn, Jupyter, Quarto     |
 | NLP Frameworks                  | HF Transformers, SpaCy, NLTK                        |
-| Data Analysis and Visualization | PowerBI, Excel, Matplotlib, Plotly, GGplot          |
+| Data Analysis and Visualization | Plotly, GGplot, Matplotlib, PowerBI, Excel          |
 | Web Frameworks                  | Flask, Streamlit, R Shiny, RBlogdown                |
 | Infrastructure                  | Git, Docker, Poetry                                 |
 | AWS                             | Sagemaker, ECR, S3, IAM                             |
