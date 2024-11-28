@@ -31,7 +31,7 @@ The second is a companion piece which seeks to guide new users on AWS how to con
 
 | Type                            | Skill                                               |
 |---------------------------------|-----------------------------------------------------|
-| Languages                       | Python, R                                           |
+| Languages                       | Python, R, SQL                                      |
 | DS Frameworks                   | PySpark, Polars, Pandas, Numpy, SKLearn, Jupyter, Quarto     |
 | NLP Frameworks                  | HF Transformers, SpaCy, NLTK                        |
 | Data Analysis and Visualization | Plotly, GGplot, Matplotlib, PowerBI, Excel          |
