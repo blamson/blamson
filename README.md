@@ -1,6 +1,18 @@
 # About Me:
 
-Hello, I'm data scientist with a love for statistics and programming. My primary skillset lies in data wrangling using Pandas and Natural Language Processing related work. My main language is Python, however I also do a lot of hobbiest work in R and I'm sure over the course of my career I'll be learning all sorts of weird tools. 
+Hello, I'm data scientist with a love for statistics and programming. My primary skillset lies in data wrangling using libraries like Polars or PySpark depending on the task. My main language is Python, however I also do a lot of hobbiest work in R and I'm sure over the course of my career I'll be learning all sorts of weird tools. 
+
+# Skills
+
+| Type                            | Skill                                               |
+|---------------------------------|-----------------------------------------------------|
+| Languages                       | Python, R, SQL                                      |
+| DS Frameworks                   | PySpark, Polars, Pandas, Numpy, SKLearn, Jupyter, Quarto     |
+| NLP Frameworks                  | HF Transformers, SpaCy, NLTK                        |
+| Data Analysis and Visualization | Plotly, GGplot, Matplotlib, PowerBI, Excel          |
+| Web Frameworks                  | Flask, Streamlit, R Shiny, RBlogdown                |
+| Infrastructure                  | Git, Docker, Poetry                                 |
+| AWS                             | Sagemaker, ECR, S3, IAM                             |
 
 # Current Projects
 
@@ -27,14 +39,3 @@ I wrote two writeups hosted on my website. The first is a user-friendly introduc
 
 The second is a companion piece which seeks to guide new users on AWS how to containerize and deploy an LLM and corresponding Flask app to Sagemaker. This one took ages to figure out myself and I hope it can help others overwhelmed by AWS at the start! [Link to this writeup](https://bradylamson.com/p/tutorial-deploying-custom-inference-application-to-aws-sagemaker/)
 
-# Skills
-
-| Type                            | Skill                                               |
-|---------------------------------|-----------------------------------------------------|
-| Languages                       | Python, R, SQL                                      |
-| DS Frameworks                   | PySpark, Polars, Pandas, Numpy, SKLearn, Jupyter, Quarto     |
-| NLP Frameworks                  | HF Transformers, SpaCy, NLTK                        |
-| Data Analysis and Visualization | Plotly, GGplot, Matplotlib, PowerBI, Excel          |
-| Web Frameworks                  | Flask, Streamlit, R Shiny, RBlogdown                |
-| Infrastructure                  | Git, Docker, Poetry                                 |
-| AWS                             | Sagemaker, ECR, S3, IAM                             |
