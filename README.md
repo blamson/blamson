@@ -25,8 +25,8 @@ Fire Emblem is a video game franchise with a long history and a whole lot of dat
 Tools Used:
 - Python
 - BeautifulSoup
-- Pandas
 - Polars
+- DuckDB
 - Plotly
 - PowerBI
 - Streamlit
